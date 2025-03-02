@@ -2,5 +2,5 @@
 # Student Name - Shunmuga Rathinam G
 # UPTOR_Registration No. -  2432
 # Location - Chennai
-# Email - Shunmugam.at.chennai@gmail.com
+# Email - shunmugam.at.chennai@gmail.com
 # Contact  - 9940038322
